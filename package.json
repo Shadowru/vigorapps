@@ -1,0 +1,7 @@
+{
+  "name": "vigorapps",
+  "version": "0.0.1",
+  "dependencies": {
+    "simple-node-logger": "^0.93.16"
+  }
+}
